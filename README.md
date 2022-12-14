@@ -5,6 +5,8 @@
 
 # Main model code
 ## Colab links
+[Newly updated Colab link](https://colab.research.google.com/drive/1WOgV7vOOJ4RTB92v1bOvUy_g3dRQNvvx?usp=sharing)
+
 [Cleaned Colab link](https://colab.research.google.com/drive/1g5nLM8hEHJ54OCOdZRe4nUhmiUtf7nYJ#scrollTo=VmoVsORRwrIV)
 
 [Old Colab link](https://colab.research.google.com/drive/19zGy4s6NvsjAD4l5wvdc17x1zpf_3OsJ#scrollTo=iIY4nTTQIz0d)
