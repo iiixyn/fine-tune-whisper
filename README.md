@@ -11,7 +11,9 @@
 
 [Old Colab link](https://colab.research.google.com/drive/19zGy4s6NvsjAD4l5wvdc17x1zpf_3OsJ#scrollTo=iIY4nTTQIz0d)
 
-It is possible that read access has to requested for the Colab notebooks. A copy of the "cleaned" Colab notebook can be found in this repository as `fine_tune_whisper_for_QCfrench.ipynb`.
+It is possible that read access has to requested for the Colab notebooks. 
+A copy of the "updated" Colab notebook can be found below the "cleaned" Colab notebook. This contains working code about the deletion issue. 
+A copy of the "cleaned" Colab notebook can be found in this repository as `fine_tune_whisper_for_QCfrench.ipynb`.
 
 The old Colab link shows a preliminary version of the project with exploratory steps.
 
